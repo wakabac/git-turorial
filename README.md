@@ -1,3 +1,3 @@
 # git tutorial
 
-  - fix-A
+  - fix-B
